@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TextView">
+        <attr name="low_Color" format="color"></attr>
+        <attr name="extra_Color" format="color"></attr>
+    </declare-styleable>
+</resources>
